@@ -6,6 +6,12 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
+           int i=1;
+           
+           i++;
+           
+            Console.WriteLine("i="+i);
+           
             Console.WriteLine("Hello  222222 111111111  Git  2222  test  World!");
         }
     }
