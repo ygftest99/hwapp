@@ -6,7 +6,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-           int i=1000;
+           int i=100222;
            
            i++;
            
